@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask==1.1.2
 gensim==3.8.3
 gunicorn==19.9.0
@@ -17,3 +18,32 @@ scikit-learn>=0.18
 scipy==1.4.1
 timedelta==2020.12.3
 tqdm==4.28.1
+||||||| empty tree
+=======
+Flask==1.1.2
+gensim==3.8.3
+gunicorn==19.9.0
+html5lib==1.1
+htmlmin==0.1.12
+itsdangerous==1.1.0
+Jinja2==2.11.2
+lxml==4.6.2
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+nltk==3.5
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+pandas @ file:///C:/ci/pandas_1602088205210/work
+pickle-mixin==1.0.2
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+praw==7.1.0
+prawcore==1.5.0
+pyreadline==2.1
+regex @ file:///C:/ci/regex_1606691216163/work
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+scikit-learn @ file:///C:/ci/scikit-learn_1598376983131/work
+scipy==1.4.1
+timedelta==2020.12.3
+tqdm==4.28.1
+>>>>>>> 432e49bcfb475ab74d682ba6eb21634f0c365f29
